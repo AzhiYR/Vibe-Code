@@ -54,7 +54,7 @@ vibe-code/
 
 ## 🚀 Quick Start
 
-1. Clone repo: `git clone https://github.com/YOURUSERNAME/vibe-code`
+1. Clone repo: `git clone https://github.com/AzhiYR/vibe-code`
 2. Update CSV paths in `direct_freekicks.py` to your files.
 3. Run: `python direct_freekicks.py`
 4. View the pitch visualization!
@@ -69,7 +69,7 @@ vibe-code/
 
 ***
 
-**Built by Azhi Rasyl | Madrid-based data analyst & football enthusiast**  
+**Built by Azhi Rasyl | Madrid-based data analyst, Urbanist & football enthusiast**  
 
 
 ***
